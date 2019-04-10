@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-usage: st-tasks-ecr-compare.py [-h] [-a ACCOUNT] -c CLUSTER [-r REGION]
+python st-tasks-ecr-compare.py [-h] [-a ACCOUNT] -c CLUSTER [-r REGION]
 
 optional arguments:
   -h, --help            show this help message and exit
