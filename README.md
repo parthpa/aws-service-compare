@@ -1,5 +1,7 @@
 # aws-service-compare
 
+## Usage
+```
 usage: st-tasks-ecr-compare.py [-h] [-a ACCOUNT] -c CLUSTER [-r REGION]
 
 optional arguments:
@@ -10,4 +12,5 @@ optional arguments:
                         Cluster to run the script against
   -r REGION, --region REGION
                         AWS Region
+```
 
